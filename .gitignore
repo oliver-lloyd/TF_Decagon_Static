@@ -1,0 +1,14 @@
+*.DS_Store
+data/raw/bio*.csv
+**/*.tsv
+**/full_features.csv
+analysis/pilot/*/202*
+analysis/pilot/*/slurm*
+analysis/assessment/testing
+**/__pycache__
+data/figures/testing.ipynb
+analysis/false_start/checkpoints
+**/*.tar.gz
+analysis/experiments/non-naive
+analysis/experiments/selfloops
+**/*.pt
